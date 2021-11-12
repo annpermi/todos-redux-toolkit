@@ -1,0 +1,5 @@
+# Todos-redux
+
+> Redux
+
+> thunkMiddleware
